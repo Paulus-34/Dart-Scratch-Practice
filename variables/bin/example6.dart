@@ -1,3 +1,5 @@
+//Inferring data types
+
 void main(List<String> args) {
 
   ///Specify data type of every variable
