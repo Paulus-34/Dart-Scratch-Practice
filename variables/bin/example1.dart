@@ -1,6 +1,7 @@
 void main(List<String> args) {
-  const name = "Rato";
-
-  name = "edimar";
+  const name = "Edimar";
   print(name);
+
+  //invalid code
+  //name = "rato";
 }
